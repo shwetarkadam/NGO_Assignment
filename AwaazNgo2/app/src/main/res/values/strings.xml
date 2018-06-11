@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Awaaz Ngo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_who_we_are">Who We Are</string>
+    <string name="title_projects">Projects</string>
+    <string name="title_events">Events</string>
+    <string name="title_contact_us">Contact us</string>
+    <string name="title_donate">DONATE US</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/kids</item>
+        <item>@drawable/kids2</item>
+        <item>@drawable/logo2</item>
+    </integer-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone">PHONE:\n 7055257379, 7417282926</string>
+    <string name="button_name">Icon and text</string>
+</resources>

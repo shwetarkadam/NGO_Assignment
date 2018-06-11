@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/charity"
+        android:title="@string/title_who_we_are" />
+
+    <item
+        android:id="@+id/navigation_projects"
+        android:icon="@drawable/group"
+        android:title="@string/title_projects" />
+
+    <item
+        android:id="@+id/navigation_contact_us"
+        android:icon="@drawable/icon_contactus"
+        android:title="@string/title_contact_us" />
+    <item
+        android:id="@+id/navigation_donate"
+        android:icon="@drawable/donation"
+        android:title="@string/title_donate" />
+</menu>
